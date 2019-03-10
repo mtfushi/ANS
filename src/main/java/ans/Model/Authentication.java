@@ -1,4 +1,4 @@
-package Model;
+package ans.Model;
 
 import lombok.Data;
 
